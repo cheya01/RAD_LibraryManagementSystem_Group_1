@@ -1,0 +1,10 @@
+{
+  "name": "Library-Management-System",
+  "version": "1.0.0",
+  "description": "Library Management System API",
+  "main": "app.js",
+  "repository": "https://github.com/cheya01/RAD_LibraryManagementSystem_Group_1.git",
+  "author": "Chethiya Wanigarathne",
+  "license": "MIT",
+  "private": false
+}

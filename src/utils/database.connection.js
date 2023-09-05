@@ -12,7 +12,7 @@ const connect = async () => {
     mongoose.connect(MONGODB_URL)
     .then((connection) => {
         database = connection;
-        logger.info("Database Synced");
+        logger.info("🗄️ Database Synced 🗄️");
     })
     .catch((err) => {
         logger.error(err.message);
